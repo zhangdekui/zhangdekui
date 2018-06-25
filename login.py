@@ -6,3 +6,5 @@ cc=199
 
 uu=9i98989
 
+def index():
+	print('index')
